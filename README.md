@@ -24,8 +24,12 @@ Veratasium has published an excellent [introdution video](https://youtu.be/fDek6
 This repo is my journey to understand Chaos Theory better, but from a very practical point of view. I want to learn the following.
 
 - How to determine whether a fully simulated system (i.e. a set of equations) is [formally chaotic](https://www.maths.usyd.edu.au/u/gottwald/preprints/chaos1.pdf).
-- Discover and create some [good notebooks](https://alpha.iodide.io/notebooks/34/?viewMode=report) that cover this topic.
+- Discover and write some [code](https://alpha.iodide.io/notebooks/34/?viewMode=report) that covers this topic.
 
 I do not aim to learn:
 
 - How to determine if [observational data](https://www.nature.com/articles/s42003-019-0715-9) comes from a chaotic real-world system.
+
+## Code in this repo
+
+Check out the [3D simulator](./3d-simulator.ipynb), e.g. of the lorenz attractor. 
