@@ -25,11 +25,9 @@ This repo is my journey to understand Chaos Theory better, but from a very pract
 
 - How to determine whether a fully simulated system (i.e. a set of equations) is [formally chaotic](https://www.maths.usyd.edu.au/u/gottwald/preprints/chaos1.pdf).
 - Discover and write some [code](https://alpha.iodide.io/notebooks/34/?viewMode=report) that covers this topic.
-
-I do not aim to learn:
-
 - How to determine if [observational data](https://www.nature.com/articles/s42003-019-0715-9) comes from a chaotic real-world system.
-
+    - Understand permutation entropy, see [link 1](https://www.sciencedirect.com/science/article/abs/pii/S0888327011005140) and [link 2](https://www.aptech.com/blog/understanding-and-solving-the-structural-vector-autoregressive-identification-problem/)
+    - Understand the [Schreiber algorithm](https://www.worldscientific.com/doi/abs/10.1142/S0218127491000403) and [denoising](https://arxiv.org/pdf/nlin/0002028.pdf)
 ## Code in this repo
 
-Check out the [3D simulator](./3d-simulator.ipynb), e.g. of the lorenz attractor. 
+Check out the [3D simulator](./3d-simulator.ipynb), e.g. of the lorenz attractor.
