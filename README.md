@@ -17,13 +17,13 @@ MMMMMMMMb.         d8MM8tt8MM
       "MNICKM"
 ```
 
-A deterministic and bounded system is chaotic if tiny perturbations to the system get exponentially amplified ([Article in Nature](https://www.nature.com/articles/s42003-019-0715-9)]). The idea that small causes may have large effects in weather was recognized early on by French mathematician and engineer [Henri Poincaré](https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9).
+A deterministic and bounded system is chaotic if tiny perturbations to the system get [exponentially amplified](https://www.nature.com/articles/s42003-019-0715-9). This is sometimes called the [butterfly effect](https://en.wikipedia.org/wiki/Butterfly_effect). The idea that small causes may have large effects in weather was recognized early on by French mathematician and engineer [Henri Poincaré](https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9).
 
-You can get more intuition on Chaos Theory by watching this excellent [introdution video](https://youtu.be/fDek6cYijxI) by Veratasium. In the video he elaborates on the chaotic case discovered by meteorologist Edward Lorenz, coined the [butterfly effect](https://en.wikipedia.org/wiki/Butterfly_effect), where a small difference in rounding caused a deterministic model of the atmospere to evolve radically different from almost identical initial conditions.
+Veratasium has published an excellent [introdution video](https://youtu.be/fDek6cYijxI) to Chaos Theory. The video gives the history of the chaotic case discovered by meteorologist Edward Lorenz, where a small difference in rounding in an atmosperic model caused the model to evolve radically different from almost identical initial conditions.
 
-This is my journey to understand this concept better. I want to learn the following.
+This repo is my journey to understand Chaos Theory better, but from a very practical point of view. I want to learn the following.
 
-- How to determine if a fully simulated system (i.e. a set of equations) is [formally chaotic](https://www.maths.usyd.edu.au/u/gottwald/preprints/chaos1.pdf).
+- How to determine whether a fully simulated system (i.e. a set of equations) is [formally chaotic](https://www.maths.usyd.edu.au/u/gottwald/preprints/chaos1.pdf).
 
 I do not aim to learn:
 
